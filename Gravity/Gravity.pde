@@ -15,5 +15,4 @@ void draw() {
   bouncing.display();
   bouncing.move();
 }
-
 // Boom
